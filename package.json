@@ -1,0 +1,28 @@
+{
+  "name": "WAR_FER_S_34_REACT_Furry_Game",
+  "version": "1.0.0",
+  "description": "<img alt=\"Logo\" src=\"http://coderslab.pl/svg/logo-coderslab.svg\" width=\"400\">",
+  "main": "index.js",
+  "dependencies": {
+    "npm": "^6.0.1"
+  },
+  "devDependencies": {
+    "webpack": "^4.8.3",
+    "webpack-cli": "^2.1.3"
+  },
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "start": "webpack --config webpack.config.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/KrzysztofChlopczynski/WAR_FER_S_34_REACT_Furry_Game.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/KrzysztofChlopczynski/WAR_FER_S_34_REACT_Furry_Game/issues"
+  },
+  "homepage": "https://github.com/KrzysztofChlopczynski/WAR_FER_S_34_REACT_Furry_Game#readme"
+}

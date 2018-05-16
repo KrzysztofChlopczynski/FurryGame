@@ -74,3 +74,15 @@ section#over pre {
 .invisible {
   display: none;
 }
+#startButton{
+  width: 10em;
+  height: 3em;
+  text-align: center;
+  padding: 0.5em;
+  background-color: rgba(211,211,211, 0.75);
+  border: 1px solid lightgray;
+  border-radius: 1px;
+  box-shadow: 1px 1px 5px 1px lightgray;
+  margin: 1em auto;
+  display: block;
+}
